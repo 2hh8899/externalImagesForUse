@@ -1,9 +1,12 @@
 {
 	"ocean": {
-		"background": "fixed linear-gradient(to left, #0002, #0000 5%, #0000 95%, #0002), fixed linear-gradient(to top, #000f, #0008 7.5%, #0000 40%, #0000), fixed top / 100% auto repeat-x url('★/background-ocean.png'), fixed linear-gradient(#0090c8, #0090c8), #00435d"
+		"background": {
+			"imagePreload": "url('★/background-ocean.png')",
+			"background": "fixed linear-gradient(to left, #0002, #0000 5%, #0000 95%, #0002), fixed linear-gradient(to top, #000f, #0008 7.5%, #0000 40%, #0000), fixed top / 100% auto repeat-x url('★/background-ocean.png'), fixed linear-gradient(#0090c8, #0090c8), #00435d"
+		}
 	},
 	"computercraft": {
-		"background": "",
-		"title": ""
+		"background": {},
+		"title": {}
 	}
 }
