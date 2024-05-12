@@ -6,12 +6,12 @@
 	},
 	"computercraft": {
 		"border1": {
-			"borderImage": "url('★/border1-computercraft.png') 8 fill / 8 / 0;",
-			"borderImageSupport": "url('★/border1-computercraft.png') 8 fill / 7 / 0;"
+			"borderImage": "url('★/border1-computercraft.png') 8 fill / 8 / 0",
+			"borderImageSupport": "url('★/border1-computercraft.png') 8 fill / 7 / 0"
 		},
 		"border2": {
-			"borderImage": "url('★/border2-computercraft.png') 8 fill / 8 / 0;",
-			"borderImageSupport": "url('★/border2-computercraft.png') 8 fill / 7 / 0;"
+			"borderImage": "url('★/border2-computercraft.png') 8 fill / 8 / 0",
+			"borderImageSupport": "url('★/border2-computercraft.png') 8 fill / 7 / 0"
 		}
 	}
 }
