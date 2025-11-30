@@ -1,4 +1,10 @@
 {
+	"헥스캐스팅": {
+		"background": {
+			"preLoad": "/background-hexcasting.png",
+			"background": "fixed linear-gradient(to left, #000a, #0000 10%, #0000 90%, #000a), fixed linear-gradient(to top, #000f, #000f 40%, #0000 80%, #0000), fixed center / 12% auto repeat url('★/background-hexcasting.png'), #000"
+		}
+	},
 	"ocean": {
 		"background": {
 			"preLoad": "/background-ocean.png",
